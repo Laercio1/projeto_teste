@@ -1,3 +1,6 @@
 meu primeiro arquivo.
 
 Fiz mais alterações.
+
+Alteração realizada no repositório local.
+
